@@ -39,6 +39,3 @@ Many platforms like **X (Twitter), Instagram, TikTok, Threads, or Bluesky** gene
 URL Converter is ideal for content creators, community managers, moderators, or anyone who regularly shares social media links on Discord.
 
 ---
-
-* write a **short description (132 chars)**,
-* or adapt the tone to be more technical / more casual.
