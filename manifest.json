@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "URL Converter",
+  "version": "1.2",
+  "description": "Convertit des URL (X, Threads, Instagram, TikTok, Bluesky, etc.) pour Discord.",
+"permissions": ["activeTab", "scripting", "storage", "tabs", "clipboardWrite"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "commands": {
+    "convert-and-copy": {
+      "suggested_key": {
+        "default": "Alt+Shift+U"
+      },
+      "description": "Convertir l’URL de l’onglet et copier"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
