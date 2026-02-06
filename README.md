@@ -39,3 +39,7 @@ Many platforms like **X (Twitter), Instagram, TikTok, Threads, or Bluesky** gene
 URL Converter is ideal for content creators, community managers, moderators, or anyone who regularly shares social media links on Discord.
 
 ---
+Sources
+• https://github.com/seriaati/embed-fixer
+• https://github.com/FxEmbed/FxEmbed
+• https://github.com/Wikidepia/InstaFix/
