@@ -1,6 +1,7 @@
 # Url-converter-4-discord
 **URL Converter 4 discord** is a lightweight Chrome extension that instantly converts social media links into Discord-friendly URLs.  
 ---
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/0da37da8-c0ff-4271-8822-bdb1e4adde75" />
 
 Many platforms like **X (Twitter), Instagram, TikTok, Threads, or Bluesky** generate links that don’t embed properly on Discord. URL Converter fixes that in one click (or with a keyboard shortcut) by transforming the current tab’s URL into an alternative format that previews correctly.
 
